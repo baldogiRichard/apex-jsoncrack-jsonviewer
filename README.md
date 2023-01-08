@@ -38,6 +38,11 @@ You can return the data by using a function body which returns a JSON string in 
 <b>Commands</b>
 
 <code><pre>
+
+yarn add -D webpack webpack-cli webpack-dev-server
+
+yarn webpack --config webpack.config.js
+
 </code></pre>
 
 In my case
