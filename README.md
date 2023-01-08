@@ -9,7 +9,7 @@ This plug-in helps to visualize JSON data in a canvas.
 
 Minimum requirement: Oracle Application Expresss 20.2
 
-This plug-in uses the <a href="https://jsoncrack.com/" rel="nofollow">JSON Crack</a>. Also give this man a huge support for this awesome initiative. :muscle:
+This plug-in uses the <a href="https://jsoncrack.com/" rel="nofollow">JSON Crack</a> application. Also give this man a huge support for this awesome initiative. :muscle:
 
 # setup
 
