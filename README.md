@@ -43,7 +43,7 @@ What was used to convert a react based application into apex?
 
 <b>File Modifications</b>
 
-In order to render the editor into the web page a couple of modifications were needed in one of the entry files:
+In order to render the editor into the web page a couple of modifications were needed in one of the entry files (src/pages/editor.tsx):
 
 <img width="809" alt="image" src="https://user-images.githubusercontent.com/100072414/211220610-7818cc99-dfce-489e-9285-3668410fd00d.png">
 
