@@ -1,0 +1,35 @@
+{
+    "name" : "JSON Viewer",
+    "version" : "1.0",
+    "description" : "This plug-in helps to visualize JSON data in a canvas.",
+    "keywords" : ["apexjsonviewer","json","region","plugin","visualize"],
+    "homepage" : "https://github.com/baldogiRichard/apex-jsoncrack-jsonviewer",
+    "bugs" : {
+      "url" : "https://github.com/baldogiRichard/apex-jsoncrack-jsonviewer/issues",
+      "email" : "baldogi.richard@gmail.com"
+    },
+    "license" : "MIT",
+    "commercial" : "No",
+    "author" : {
+      "name" : "Richard Baldogi",
+      "email" : "baldogi.richard@gmail.com",
+      "url" : "https://www.linkedin.com/in/rb-627543146",
+      "twitter": "@O_APEX_Hungary"
+    },
+    "repository" : {
+      "type" : "git",
+      "url" : "https://github.com/baldogiRichard/apex-jsoncrack-jsonviewer.git"
+    },
+   "oracle" : {
+      "versions" : ["12.1.0.1","12.2.0.1","18.0.0.0","19.0.0.0","21.0.0.0"],
+      "apex" : {
+        "versions" : ["19.1","19.2","20.1","20.2","21.1","21.2"],
+        "plugin" : {
+          "internalName" : "COM.APEXJSONVIEWER.PLUGIN",
+          "type" : "region",
+          "demo" : "https://apex.oracle.com/pls/apex/r/rmzrt/apex-plugins-by-richard-baldogi/json-crack-viewer",
+          "previewImage" : "https://raw.githubusercontent.com/baldogiRichard/apex-jsoncrack-jsonviewer/main/jsonviewer.gif"
+        }
+      }
+    }
+  }
