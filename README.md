@@ -56,6 +56,16 @@ yarn add -D webpack webpack-cli webpack-dev-server
 yarn webpack --config webpack.config.js
 </code></pre>
 
+<b>result</b>
+
+Some bundled JS file which can be imported to the plug-in files later on. Also a index.html was generated to testing the editor in my local environment.
+
+<img width="182" alt="image" src="https://user-images.githubusercontent.com/100072414/211221178-fd2b9ba0-6f8c-4f73-94a4-1d2f533bd1b1.png">
+
+<b>Pros and Cons</b>
+
+TBA.
+
 #
 
 License MIT
