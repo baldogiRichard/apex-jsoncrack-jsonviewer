@@ -37,7 +37,7 @@ What was used to convert a react based application into apex?
 
 <ul>
     <li>A CLI (Bash, Powershell, VS Code Integrated Terminal etc...)</li>
-    <li>Package Manager: YARN, NPM</li>
+    <li>Package Manager: YARN or NPM</li>
     <li>Node.js</li>
 </ul>
 
