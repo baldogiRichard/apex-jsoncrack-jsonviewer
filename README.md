@@ -15,6 +15,10 @@ This plug-in uses the <a href="https://jsoncrack.com/" rel="nofollow">JSON Crack
 
 You can check each setup in my downloadable <a href="https://github.com/baldogiRichard/plug-in-site" rel="nofollow">Sample Application: APEX Plug-ins by Richard Baldogi</a>
 
+<b>Settings</b>
+
+You can return the data by using a function body which returns a JSON string in the <b>Settings</b> or by specifying a data source in the <b>Source</b> attributes. Please note if you use
+
 #
 
 License MIT
