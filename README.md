@@ -29,9 +29,17 @@ You can return the data by using a function body which returns a JSON string in 
 
 <img width="568" alt="image" src="https://user-images.githubusercontent.com/100072414/211217897-8b98b49d-dd16-4cdd-8eb4-7ccfde2ce775.png">
 
-# What was used to convert a react based application into apex?
+# 
+
+What was used to convert a react based application into apex?
 
 <b>Prerequisites</b>
+
+<ul>
+    <li>A CLI (Bash, Powershell, VS Code Integrated Terminal etc...)</li>
+    <li>Package Manager: YARN, NPM</li>
+    <li>Node.js</li>
+</ul>
 
 <b>File Modifications</b>
 
@@ -42,8 +50,6 @@ yarn add -D webpack webpack-cli webpack-dev-server
 
 yarn webpack --config webpack.config.js
 </code></pre>
-
-In my case
 
 #
 
