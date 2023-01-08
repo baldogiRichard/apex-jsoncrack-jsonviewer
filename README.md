@@ -3,7 +3,7 @@ This is an experimental plug-in where I tried if react based applications can be
 
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/100072414/211216526-1b735f5c-dfdd-466a-9bdc-3881a4124430.png">
 
-Oracle Application Express - Interactive Charts plugin
+Oracle Application Express - JSON Viewer plugin
 
 This plug-in helps to visualize JSON data in a canvas.
 
