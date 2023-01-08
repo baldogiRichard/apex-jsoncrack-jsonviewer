@@ -17,7 +17,7 @@ You can check each setup in my downloadable <a href="https://github.com/baldogiR
 
 <b>Settings</b>
 
-You can return the data by using a function body which returns a JSON string in the <b>Settings</b> or by specifying a data source in the <b>Source</b> attributes. Please note if you use
+You can return the data by using a function body which returns a JSON string in the <b>Settings</b> or by specifying a data source in the <b>Source</b> attributes. Please note if you use a local/remote/rest data source then your JSON will be returned by the APEX_JSON.WRITE_CONTEXT procedure.
 
 #
 
