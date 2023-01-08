@@ -37,7 +37,7 @@ You can return the data by using a function body which returns a JSON string in 
 
 <b>Commands</b>
 
-<code><pre>
+<pre><code>
 
 yarn add -D webpack webpack-cli webpack-dev-server
 
