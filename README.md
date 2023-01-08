@@ -37,8 +37,12 @@ You can return the data by using a function body which returns a JSON string in 
 
 <ul>
     <li>A CLI (Bash, Powershell, VS Code Integrated Terminal etc...)</li>
-    <li>Package Manager: YARN or NPM</li>
-    <li>Node.js</li>
+    <li>
+        Package Manager: <a href="https://yarnpkg.com/" rel="nofollow">YARN</a> or <a href="https://npmjs.com/" rel="nofollow">NPM</a>
+    </li>
+    <li>
+        <a href="https://nodejs.org/" rel="nofollow">Node.js</a>
+    </li>
 </ul>
 
 <b>File Modifications</b>
