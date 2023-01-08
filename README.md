@@ -17,8 +17,11 @@ You can check each setup in my downloadable <a href="https://github.com/baldogiR
 
 <b>Settings</b>
 
-You can return the data by using a function body which returns a JSON string in the <b>Settings</b> or by specifying a data source in the <b>Source</b> attributes. Please note if you use a local/remote/rest data source then your JSON will be returned by the APEX_JSON.WRITE_CONTEXT procedure which is wrapped around a curly bracket and the data key tag ({data: Your source data}).
+You can return the data by using a function body which returns a JSON string in the <b>Settings</b> or by specifying a data source in the <b>Source</b> attributes. Please note if you use a local/remote/rest data source then your JSON will be returned by the APEX_JSON.WRITE_CONTEXT procedure which is wrapped around a curly bracket and the data key tag: 
 
+<pre><code>
+{data: Your source data}
+</code></pre>
 
 <img width="110" alt="image" src="https://user-images.githubusercontent.com/100072414/211217923-6904661d-3acb-4e15-8df2-6abb4cffae45.png">
 
